@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="pubget_overview.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-global="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:zoom="1.0998546"
+     inkscape:cx="125.47113"
+     inkscape:cy="93.194137"
+     inkscape:window-width="3840"
+     inkscape:window-height="2102"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1158"
+       units="cm"
+       empspacing="4"
+       spacingx="10"
+       spacingy="10" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="680.31496"
+       y="188.97638"
+       width="151.1811"
+       height="37.795276"
+       id="rect50917" />
+    <rect
+       x="264.56693"
+       y="226.77165"
+       width="151.1811"
+       height="37.795276"
+       id="rect48799" />
+    <rect
+       x="831.49606"
+       y="-113.38583"
+       width="226.77165"
+       height="75.590551"
+       id="rect44025" />
+    <rect
+       x="377.95276"
+       y="-75.590551"
+       width="264.56693"
+       height="113.38583"
+       id="rect41005" />
+    <rect
+       x="415.74803"
+       y="-37.795276"
+       width="151.1811"
+       height="75.590551"
+       id="rect36580" />
+    <rect
+       x="75.590551"
+       y="0"
+       width="151.1811"
+       height="75.590551"
+       id="rect33128" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path30845" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path30839" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path30833" />
+    </marker>
+    <rect
+       x="340.15748"
+       y="37.795276"
+       width="113.38583"
+       height="37.795276"
+       id="rect29931" />
+    <rect
+       x="680.31496"
+       y="37.795276"
+       width="151.1811"
+       height="37.795276"
+       id="rect25406" />
+    <rect
+       x="604.72441"
+       y="37.795276"
+       width="75.590551"
+       height="37.795276"
+       id="rect22394" />
+    <rect
+       x="37.795276"
+       y="113.38583"
+       width="188.97638"
+       height="75.590551"
+       id="rect17952" />
+    <rect
+       x="75.590551"
+       y="113.38583"
+       width="113.38583"
+       height="37.795276"
+       id="rect9724" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path30845-7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g52471">
+      <g
+         id="g52407">
+        <g
+           id="g52398">
+          <path
+             id="path1182-7"
+             style="fill:#ffffff;fill-opacity:1;stroke:#040404;stroke-width:1.18648;stroke-linecap:round;stroke-linejoin:round"
+             d="m 10.593152,30.075927 v 29.841072 0.172598 h 0.02739 a 24.406759,5.0067609 0 0 0 24.37939,4.834332 24.406759,5.0067609 0 0 0 24.37939,-4.834332 h 0.02791 v -30.01367 z" />
+          <ellipse
+             style="fill:#fcfdfe;fill-opacity:1;stroke:#040404;stroke-width:1.18648;stroke-linecap:round;stroke-linejoin:round"
+             id="path1182"
+             cx="35.000187"
+             cy="30.082832"
+             rx="24.406761"
+             ry="5.0067611" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,6.3058165,10.082832)"
+             id="text17950"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17952)"><tspan
+               x="37.794922"
+               y="170.01172"
+               id="tspan52552">PMC</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,0.65502166,3.8036827)"
+           id="text33126"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect33128)"><tspan
+             x="75.589844"
+             y="18.87497"
+             id="tspan52554">Online </tspan><tspan
+             x="75.589844"
+             y="45.541594"
+             id="tspan52556">repository</tspan></text>
+      </g>
+      <g
+         id="g52417">
+        <g
+           id="g30786"
+           transform="translate(26.225529,6.9534381)">
+          <rect
+             style="fill:#fdfefe;fill-opacity:1;stroke:#040404;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect18922"
+             width="30.000002"
+             height="40"
+             x="59.241276"
+             y="54.810028"
+             transform="rotate(-22.013314)" />
+          <rect
+             style="fill:#fdfefe;fill-opacity:1;stroke:#040404;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect18922-6"
+             width="30.000002"
+             height="40"
+             x="120.99114"
+             y="-26.98111"
+             transform="rotate(18.542783)" />
+          <rect
+             style="fill:#fdfefe;fill-opacity:1;stroke:#040404;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect18922-3"
+             width="30.000002"
+             height="40"
+             x="90.400002"
+             y="10.4" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,6.3853756,8.5868569)"
+             id="text29929"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect29931)"><tspan
+               x="340.1582"
+               y="66.107422"
+               id="tspan52558">XML</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,9.3071454,17.581281)"
+           id="text41003"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect41005)"><tspan
+             x="377.95312"
+             y="-56.714874"
+             id="tspan52560">Collection of complex </tspan><tspan
+             x="377.95312"
+             y="-30.048248"
+             id="tspan52562">XML documents</tspan></text>
+      </g>
+      <g
+         id="g52431">
+        <g
+           id="g26847"
+           transform="translate(59.999997)">
+          <rect
+             style="fill:#fdfefe;fill-opacity:1;stroke:#040404;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect20010"
+             width="20"
+             height="70"
+             x="160"
+             y="10" />
+          <rect
+             style="fill:#fdfefe;fill-opacity:1;stroke:#040404;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect20238"
+             width="40"
+             height="70"
+             x="180"
+             y="10" />
+          <rect
+             style="fill:#fdfefe;fill-opacity:1;stroke:#040404;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect20240"
+             width="20"
+             height="10"
+             x="160"
+             y="10" />
+          <rect
+             style="fill:#fdfefe;fill-opacity:1;stroke:#040404;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect20242"
+             width="40"
+             height="10"
+             x="180"
+             y="10" />
+          <g
+             id="g26836"
+             transform="translate(0,1.5632719)">
+            <text
+               xml:space="preserve"
+               transform="matrix(0.26458333,0,0,0.26458333,1.3321027,0)"
+               id="text22392"
+               style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect22394)"><tspan
+                 x="604.72461"
+                 y="56.669892"
+                 id="tspan52564">pmcid</tspan></text>
+            <text
+               xml:space="preserve"
+               transform="matrix(0.26458333,0,0,0.26458333,14.421847,0)"
+               id="text25404"
+               style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect25406)"><tspan
+                 x="680.31445"
+                 y="56.669892"
+                 id="tspan52566">text</tspan></text>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,3.5913104,19.294681)"
+           id="text44023"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect44025)"><tspan
+             x="831.49609"
+             y="-94.511749"
+             id="tspan52568">Tabular data ready </tspan><tspan
+             x="831.49609"
+             y="-67.845123"
+             id="tspan52570">for analysis</tspan></text>
+      </g>
+      <g
+         id="g52023">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+           d="m 69.917201,39.999999 h 20"
+           id="path30810"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-2.6858179,-13.620563)"
+           id="text48797"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect48799)"><tspan
+             x="264.56641"
+             y="245.64645"
+             id="tspan52572">Download</tspan></text>
+      </g>
+      <g
+         id="g52028">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send-0)"
+           d="m 189.79271,40 h 20"
+           id="path30810-6"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,10.921413,-3.6580298)"
+           id="text50915"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect50917)"><tspan
+             x="680.31445"
+             y="207.85153"
+             id="tspan52574">Extract</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,127 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix :    <https://neuroquery.github.io/nqdc/> .
+
+:PubMed_Central
+  a prov:Entity;
+.
+
+:nqdc
+  a prov:Agent;
+.
+
+:nqdc_run
+  a prov:Activity;
+  prov:used :PubMed_Central;
+  prov:wasAssociatedWith :nqdc;
+.
+
+:raw_data
+  a prov:Entity;
+.
+
+:processed_data
+  a prov:Entity;
+.
+
+# :analysis_results
+#   a prov:Entity;
+# .
+
+:interfaces
+  a prov:Entity;
+.
+
+:nqdc_outputs
+  a prov:Entity; # prov:Collection
+  prov:wasGeneratedBy :nqdc_run;
+  prov:hadMember :raw_data, :processed_data, :interfaces;
+  # prov:atLocation "OSF";
+.
+
+:labelbuddy
+  a prov:Agent;
+.
+
+# :annotator
+#   a prov:Person, prov:Agent, prov:Entity;
+# .
+
+:paper_exploration
+  a prov:Activity;
+  prov:used :interfaces;
+  prov:wasAssociatedWith :labelbuddy;
+.
+
+:labels
+  a prov:Entity;
+  prov:wasGeneratedBy :paper_exploration;
+.
+
+:labelled_papers_pilot
+  a prov:Entity;
+  prov:wasGeneratedBy :paper_exploration;
+.
+
+:information_extractor_design
+  a prov:Activity;
+  prov:used :labels, :labelled_papers_pilot;
+.
+
+:information_extractor
+  a prov:Agent;
+  prov:wasGeneratedBy :information_extractor_design;
+.
+
+:labelling
+  a prov:Activity;
+  prov:used :interfaces, :labels;
+  prov:wasAssociatedWith :labelbuddy;
+.
+
+:labelled_papers_1
+  a prov:Entity;
+  prov:wasGeneratedBy :labelling;
+.
+
+:extractor_evaluation
+  a prov:Activity;
+  prov:used :information_extractor, :labelled_papers_1;
+.
+
+:extractor_scores
+  a prov:Entity;
+  prov:wasGeneratedBy :extractor_evaluation;
+.
+
+:full_dataset_extraction
+  a prov:Activity;
+  prov:used :processed_data;
+  prov:wasAssociatedWith :information_extractor;
+.
+
+:extracted_information
+  a prov:Entity;
+  prov:wasGeneratedBy :full_dataset_extraction;
+.
+
+:results_analysis
+  a prov:Activity;
+  prov:used :extracted_information;
+.
+
+:report
+  a prov:Entity;
+  prov:wasGeneratedBy :results_analysis;
+.
+
+:extractor_packaging
+  a prov:Activity;
+  prov:used :information_extractor;
+.
+
+:nqdc_plugin
+  a prov:Agent; # prov:Collection
+  prov:wasGeneratedBy :extractor_packaging;
+  prov:hadMember :information_extractor;
+.
